@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\assignment2\assignment2\obj\Debug\net10.0\assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\assignment2\assignment2\obj\Debug\net10.0\assignment2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\assignment2\assignment2\obj\Debug\net10.0\assignment2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\assignment2\assignment2\obj\Debug\net10.0\assignment2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\assignment2\assignment2\bin\Debug\net10.0\assignment2.exe
+C:\Users\ASUS\source\repos\assignment2\assignment2\bin\Debug\net10.0\assignment2.deps.json
+C:\Users\ASUS\source\repos\assignment2\assignment2\bin\Debug\net10.0\assignment2.runtimeconfig.json
+C:\Users\ASUS\source\repos\assignment2\assignment2\bin\Debug\net10.0\assignment2.dll
+C:\Users\ASUS\source\repos\assignment2\assignment2\bin\Debug\net10.0\assignment2.pdb
+C:\Users\ASUS\source\repos\assignment2\assignment2\obj\Debug\net10.0\assignment2.dll
+C:\Users\ASUS\source\repos\assignment2\assignment2\obj\Debug\net10.0\refint\assignment2.dll
+C:\Users\ASUS\source\repos\assignment2\assignment2\obj\Debug\net10.0\assignment2.pdb
+C:\Users\ASUS\source\repos\assignment2\assignment2\obj\Debug\net10.0\assignment2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\assignment2\assignment2\obj\Debug\net10.0\ref\assignment2.dll
+C:\Users\ASUS\source\repos\assignment2\assignment2\obj\Debug\net10.0\assignme.5E4AEB52.Up2Date
